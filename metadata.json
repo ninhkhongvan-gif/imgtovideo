@@ -1,0 +1,7 @@
+{
+  "name": "AI Image to Video Studio",
+  "description": "Ứng dụng chuyển đổi hình ảnh thành video chất lượng cao sử dụng AI Gemini Veo, hỗ trợ giữ nguyên khuôn mặt và tích hợp sản phẩm.",
+  "requestFramePermissions": [
+    "camera"
+  ]
+}
